@@ -42,7 +42,7 @@
       "value": "${AZURE_SEARCH_SERVICE_RESOURCE_GROUP}"
     },
     "searchServiceLocation": {
-      "value": "${AZURE_SEARCH_SERVICE_LOCATION}"
+      "value": "northeurope"
     },
     "searchServiceSkuName": {
       "value": "${AZURE_SEARCH_SERVICE_SKU=standard}"

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "principalId": {
+      "value": "81beb304-4f02-434b-b68f-e15c9f5c2ee4"
+    },
+    "environmentName": {
+      "value": "test"
+    },
+    "resourceGroupName": {
+      "value": "rg-test"
+    },
+    "location": {
+      "value": "swedencentral"
+    },
+    "openAiResourceGroupName": {
+      "value": "rg-test"
+    },
+    "formRecognizerResourceGroupName": {
+      "value": "rg-test"
+    },
+    "searchServiceResourceGroupName": {
+      "value": "rg-test"
+    },
+    "storageResourceGroupName": {
+      "value": "rg-test"
+    }
+  }
+}
